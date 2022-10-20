@@ -50,7 +50,8 @@ input.onButtonPressed(Button.AB, function () {
 	
 })
 input.onButtonPressed(Button.B, function () {
-    count = -1
+    number = -1
 })
+let number = 0
 let count = 0
 count = 9
